@@ -16,3 +16,9 @@ pip install -r requirements.txt
 - Got to `.envrc` and fill in missing keys
 - Install [direnv](https://direnv.net/) and that will take care of it for you!
   - Optionally, you can run `source .envrc` for every terminal, but this approach _is not recommended_. Every person who has used this has inevitably forgot to do it and has run into issues -->
+
+## Notes
+
+- dataset.data is a numpy array (hence data.shape, etc)
+- finished here:
+https://scikit-learn.org/stable/tutorial/statistical_inference/supervised_learning.html
