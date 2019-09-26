@@ -21,4 +21,4 @@ pip install -r requirements.txt
 
 - dataset.data is a numpy array (hence data.shape, etc)
 - finished here:
-https://scikit-learn.org/stable/tutorial/statistical_inference/supervised_learning.html#support-vector-machines-svms
+https://scikit-learn.org/stable/tutorial/statistical_inference/model_selection.html#cross-validated-estimators
